@@ -14,7 +14,6 @@
 **补丁文件说明:**
 
 > **0503-save-workspace-and-i2c-driver-is-still-WIP.patch** 内核中i2c总线及RTC的驱动补丁,目前测试i2c总线还有问题,故未放到 target/linux/ramips/patches/
-
+> 
 > **07-23-2015-save-workspace.patch** target/linux/ramips/mt7621/config-3.10的补丁,主要是配置了I2C及RTC.
-
 ---
